@@ -1,4 +1,4 @@
-##  Utileria
+##  Utilería
 
 #### Contenedores activos
 
@@ -8,7 +8,7 @@ docker ps
   - **-a**
     agregar si se quiere ver los contenedores inactivos.
 
-#### Imagenes
+#### Imágenes
 
 ```sh
 docker images

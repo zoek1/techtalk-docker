@@ -6,7 +6,7 @@
 docker pull ruby:2.1.5
 ```
 
-### Contruir imagen personalizada
+### Construir imagen personalizada
 
 ```sh
 docker  build -t sinapp .
