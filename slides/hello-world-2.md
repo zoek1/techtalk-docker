@@ -17,4 +17,4 @@ sudo docker run -it -p 8080:80 --name holamundo --rm sinapp ruby app.rb -o 0.0.0
     Le asigna un nombre al nuevo contenedor.
 
   - **--rm**
-    Elimina el contenedor automaticamente despues de que termina el proceso ejecutado.
+    Elimina el contenedor automáticamente después de que termina el proceso ejecutado.

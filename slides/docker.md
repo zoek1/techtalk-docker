@@ -7,4 +7,4 @@ contenedores.
   Es el sistema de virtualización combinado con un conjunto de herramientas
   para aislar y administrar tus aplicaciones.
 - **Docker Hub**
-  Es un servicio para compartir imagenes.
+  Es un servicio para compartir imágenes.

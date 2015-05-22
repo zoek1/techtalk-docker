@@ -10,7 +10,7 @@ heroku plugins:install heroku-docker
 heroku docker:init
 ```
 
-**Crea e inicia una nuevo contenedor.**
+**Crea e inicia un nuevo contenedor.**
 ```
 heroku docker:start
 ```

@@ -1,6 +1,6 @@
 ##  Componentes
 
-- **Imagenen**
+- **Imágenes**
     Es el elemento base el cual mantiene las dependencias, la aplicación y
     algunas configuraciones.
 

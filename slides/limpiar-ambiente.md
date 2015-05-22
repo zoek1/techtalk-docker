@@ -7,7 +7,7 @@
 docker rm  holamundo
 ```
 
-### Eliminar Imagenes
+### Eliminar Imágenes
 
 ```sh
 docker rmi sinapp
