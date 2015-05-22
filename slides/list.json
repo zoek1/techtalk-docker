@@ -2,85 +2,85 @@
     {
         "filename": "index.md",
         "attr": {
-            "data-background": "/resources/images/container-shipping.jpg"
+            "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "docker.md",
         "attr": {
-            "data-background": "/resources/images/container-shipping.jpg"
+            "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "componentes.md",
         "attr": {
-            "data-background": "/resources/images/container-shipping.jpg"
+            "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "hello-world.md",
         "attr": {
-            "data-background": "/resources/images/container-shipping.jpg"
+            "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "crear-ambiente.md",
         "attr": {
-            "data-background": "/resources/images/container-shipping.jpg"
+            "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "hello-world-2.md",
         "attr": {
-            "data-background": "/resources/images/container-shipping.jpg"
+            "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "utileria.md",
         "attr": {
-            "data-background": "/resources/images/container-shipping.jpg"
+            "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "limpiar-ambiente.md",
         "attr": {
-            "data-background": "/resources/images/container-shipping.jpg"
+            "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "stack-de-rails.md",
         "attr": {
-            "data-background": "/resources/images/container-shipping.jpg"
+            "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "compose.md",
         "attr": {
-            "data-background": "/resources/images/container-shipping.jpg"
+            "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "configuracion.md",
         "attr": {
-            "data-background": "/resources/images/container-shipping.jpg"
+            "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "contruir-y-correr.md",
         "attr": {
-            "data-background": "/resources/resources/images/container-shipping.jpg"
+            "data-background": "/resources/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "docker-en-heroku.md",
         "attr": {
-            "data-background": "/resources/images/container-shipping.jpg"
+            "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     },
     {
         "filename": "recomendaciones.md",
         "attr": {
-          "data-background": "/resources/images/container-shipping.jpg"
+          "data-background": "/techtalk-docker/resources/images/container-shipping.jpg"
         }
     }
 ]
